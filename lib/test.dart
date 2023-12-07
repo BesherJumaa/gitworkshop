@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Testing extends StatelessWidget {
-  Testing({Key key}) : super(key: key);
+  const Testing({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
